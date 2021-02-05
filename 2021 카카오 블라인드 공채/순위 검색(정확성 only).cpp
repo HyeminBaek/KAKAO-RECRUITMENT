@@ -80,5 +80,6 @@ vector<int> solution(vector<string> info, vector<string> query) {
 		}
 		answer.push_back(cnt);
 	}
+	
 	return answer;
 }
