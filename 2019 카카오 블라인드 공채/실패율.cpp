@@ -7,7 +7,6 @@ using namespace std;
 struct Pair 
 {
 	double d; int i;
-
 };
 bool compare(Pair& p1, Pair& p2) 
 {
